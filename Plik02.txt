@@ -4,3 +4,4 @@ Uproszczono interfejs graficzny
 Zmiana08b
 Zmiana09a
 Zmiana17
+Zmiana20
